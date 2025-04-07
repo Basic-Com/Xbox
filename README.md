@@ -13,7 +13,7 @@ A simple and lightweight Discord bot that allows users to query Xbox usernames a
 🛡️ Lightweight, fast, and easy to extend
 
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 This project is created strictly for educational and testing purposes.
 
 It is designed to demonstrate how Discord bots can interact with structured text data (such as .txt files) and return information in an embedded, user-friendly format.
