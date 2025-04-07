@@ -3,7 +3,11 @@ A simple and lightweight Discord bot that allows users to query Xbox usernames a
 
 #✨ Features
 💬 Discord command support (!username <Gamertag>)
+
 📄 Reads user data from a structured users.txt file
+
 🧠 Supports usernames with spaces (e.g., xbox)
+
 📊 Clean, embedded response with username and IP info
+
 🛡️ Lightweight, fast, and easy to extend
