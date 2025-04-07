@@ -6,7 +6,7 @@ A simple and lightweight Discord bot that allows users to query Xbox usernames a
 
 📄 Reads user data from a structured users.txt file
 
-🧠 Supports usernames with spaces (e.g., zayvia x)
+🧠 Supports usernames with spaces (e.g., xbox)
 
 📊 Clean, embedded response with username and IP info
 
