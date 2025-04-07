@@ -14,6 +14,10 @@ A simple and lightweight Discord bot that allows users to query Xbox usernames a
 
 
 # ⚠️ Disclaimer
+
+I have made this bot for a bordom reason i didnt know why but let the skids have it
+Xbox user to IP basic i would make advanced one in the feature and more cleaner
+
 This project is created strictly for educational and testing purposes.
 
 It is designed to demonstrate how Discord bots can interact with structured text data (such as .txt files) and return information in an embedded, user-friendly format.
