@@ -1,5 +1,7 @@
 # ✅ Changelogs Fixed & Updates
 
+More update has more to come i've add little more to it
+✅ Added Loop Status (changes the bot status and the status online, idle ,dnd, invisible)
 
 ✅ Fixed Useraname working ✅ Added IP Address 
 🔴 Lookup Command 🔴 Not Advanced YET
